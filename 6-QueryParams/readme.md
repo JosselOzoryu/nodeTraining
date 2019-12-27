@@ -9,7 +9,10 @@ Fort the get endpoint:
 * Update method PUT -> destructive update
 * Patch method
 
-(Sorting and pagination on APIs)[https://www.moesif.com/blog/technical/api-design/REST-API-Design-Filtering-Sorting-and-Pagination/]
-(Sequelize)[https://sequelize.org/master/manual/querying.html#ordering]
-(Express)[http://expressjs.com/en/5x/api.html#req.query]
-(JSON api)[https://jsonapi.org/]
+# Documentation:
+
+* [Sorting and pagination on APIs](https://www.moesif.com/blog/technical/api-design/REST-API-Design-Filtering-Sorting-and-Pagination/)
+* [Sequelize](https://sequelize.org/master/manual/querying.html#ordering)
+* [Express](http://expressjs.com/en/5x/api.html#req.query)
+* [JSON api](https://jsonapi.org/)
+* [Understanding PUT vs Patch](https://medium.com/backticks-tildes/restful-api-design-put-vs-patch-4a061aa3ed0b)
